@@ -1,0 +1,11 @@
+body{
+	background-image: url(../images/metal3.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+.juego{
+	margin-top: 100px;
+	margin-left: 200px;
+
+}
